@@ -1,5 +1,5 @@
 # GCMBO-FC
-A feature selection method based on Fisher criterion and Monarch butterfly optimization
+Feature selection with Fisher criterion and Monarch butterfly optimization
 
 Xiaodong Qin & Xiabi Liu
 December 15, 2018
