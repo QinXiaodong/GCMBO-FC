@@ -21,7 +21,7 @@ Note:
 The MATLAB files and their descriptions are as follows:
 
 Fitness.m: 
-The fitness function based on Fisher criterion
+The fitness function based on Fisher criterion.
 
 FisherScore.m:
 The function calculating the Fisher score for whole feature subset.
