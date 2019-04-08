@@ -1,5 +1,5 @@
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 # GCMBO-FC
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 Feature selection with Fisher criterion and Monarch butterfly optimization
 
 Xiaodong Qin & Xiabi Liu
